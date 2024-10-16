@@ -1,16 +1,11 @@
-# sampletik2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TikMatch by Demonte Walker 👥
+This project features:
+- Mobile App Development
+- UI/UX Design
+- Flutter
+- 
+- 
+- 
+  
+## Summary 📝
+The development of the TikMatch app aims to create a unique platform that matches users based on their TikTok activity and preferences. The project focused on leveraging user-generated content to facilitate connections and provide a fun and engaging user experience. Currently working on front-end development and will then move to back-end, finally leading to user testing and release!
